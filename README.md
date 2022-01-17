@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-NaderSalama-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nader-salama-lucifers/)](https://www.linkedin.com/in/nader-salama-lucifers/)
 [![Gmail Badge](https://img.shields.io/badge/-NaderSalama-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nadersalama666@gmail.com)](mailto:nadersalama666@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-NaderSalama-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nader.salama.77)](https://www.facebook.com/nader.salama.77)
-[![Facebook Badge](https://img.shields.io/badge/-MyWebsite-%231877F2.svg?&style=flat-square&logoColor=white&link=https://LuciferLuther.github.io/)](https://NaderSalama.github.io/) 
+[![Facebook Badge](https://img.shields.io/badge/-MyWebsite-%231877F2.svg?&style=flat-square&logoColor=white&link=https://LuciferLuther.github.io/)](https://LuciferLuther.github.io/) 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuciferLuther.LuciferLuther" />
 
 <p align="center">
