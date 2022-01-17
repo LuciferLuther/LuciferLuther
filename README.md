@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-NaderSalama-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nadersalama666@gmail.com)](mailto:nadersalama666@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-NaderSalama-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nader.salama.77)](https://www.facebook.com/nader.salama.77)
 [![Facebook Badge](https://img.shields.io/badge/-MyWebsite-%231877F2.svg?&style=flat-square&logoColor=white&link=https://NaderSalama.github.io/)](https://NaderSalama.github.io/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LuciferLuther.LuciferLuther)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuciferLuther.LuciferLuther" />
 
 <p align="center">
   <img width="800" height="350" src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
