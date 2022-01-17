@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-NaderSalama-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nader-salama-lucifers/)](https://www.linkedin.com/in/nader-salama-lucifers/)
 [![Gmail Badge](https://img.shields.io/badge/-NaderSalama-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nadersalama666@gmail.com)](mailto:nadersalama666@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-NaderSalama-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nader.salama.77)](https://www.facebook.com/nader.salama.77)
-[![Facebook Badge](https://img.shields.io/badge/-NaderSalama.github.io-%231877F2.svg?&style=flat-square&logoColor=white&link=https://abdullahalrifat.github.io/)](https://abdullahalrifat.github.io/) 
+[![Facebook Badge](https://img.shields.io/badge/-MyWebsite-%231877F2.svg?&style=flat-square&logoColor=white&link=https://NaderSalama.github.io/)](https://NaderSalama.github.io/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LuciferLuther.LuciferLuther)
 
 <p align="center">
-  <img width="500" height="400" src="https://media0.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif?cid=ecf05e47wc0cf2fp0e6mpfsidnqb7c1wcmegevyolx07eum3&rid=giphy.gif&ct=g">
+  <img width="800" height="350" src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
 
   ----
   
@@ -20,7 +20,7 @@
   
 
   
-<img width="350" height="400" align="right" alt="GIF" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g" />
+<img width="300" height="330" align="right" alt="GIF" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g" />
  
  ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Software Engineer
 - 👀 I’m interested in data science & machine learning
@@ -30,15 +30,22 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-&nbsp;
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
   
 ## &#x1f4c8; GitHub Stats
-
-<img align="left" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=LuciferLuther&show_icons=true&theme=github_dark">
+  
+<a href="https://github.com/LuciferLuther/LuciferLuther">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLuther&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuciferLuther&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
   
   
   
@@ -66,11 +73,4 @@ Repo Card code
 
 <img src= "https://img.shields.io/badge/LuciferS-SoftwareEngineer-lightgrey">
 <img src="http://i.imgur.com/OUkLi.gif" width="30px">
---->
-
-  
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLuther&langs_count=8)](https://github.com/LuciferLuther/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLuther&layout=compact)](https://github.com/LuciferLuther/LuciferLuther)
-
-
 --->
