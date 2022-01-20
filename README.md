@@ -23,20 +23,20 @@
 <img width="300" height="330" align="right" alt="GIF" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g" />
  
  ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Software Engineer
-- 👀 I’m interested in data science & machine learning
-- 🌱 I’m currently learning Cloud Computing ,DevOps & Databases.
-- 💞️ I’m looking to collaborate on new and intersting project to build & improve my knowledge & experience in these fields.
+- 👀 I’m interested in Data Science ,Machine Learning & Artificial Intelligence 
+- 🌱 I’m currently learning Cloud Computing ,DevOps & Data Analysis.
+- 💞️ I’m looking to collaborate on new and intersting project which are connected to a real world problems so that i can build & improve my knowledge & experience in these fields.
   
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
   
