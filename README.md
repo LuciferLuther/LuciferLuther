@@ -23,9 +23,9 @@
 <img width="300" height="330" align="right" alt="GIF" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g" />
  
  ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Software Engineer
-- 👀 I’m interested in Data Science ,Machine Learning & Artificial Intelligence 
-- 🌱 I’m currently learning Cloud Computing ,DevOps & Data Analysis.
-- 💞️ I’m looking to collaborate on new and intersting project which are connected to a real world problems so that i can build & improve my knowledge & experience in these fields.
+- 👀 I’m interested in Data Science ,Machine Learning, AI & Cloud Foundation 
+- 🌱 I’m currently learning Data Analysis, Machine Learning & Cloud Computing.
+- 🕵️ I’m looking to collaborate on new and intersting project which are connected to a real world problems so that i can enhance & improve my knowledge & experience in these fields.
   
 
 ## 🔧 Technologies & Tools
@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferLuther&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuciferLuther&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LuciferLuther&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
   
   
