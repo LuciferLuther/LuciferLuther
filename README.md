@@ -34,10 +34,12 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=2bbc8a)
+ 
 
   
 ## &#x1f4c8; GitHub Stats
