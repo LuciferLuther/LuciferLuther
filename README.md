@@ -25,7 +25,7 @@
  ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Software Engineer
 - 👀 I’m interested in Data Science ,Machine Learning, AI & Cloud Foundation 
 - 🌱 I’m currently learning Data Analysis, Machine Learning & Cloud Computing.
-- 🕵️ I’m looking to collaborate on new and intersting project which are connected to a real world problems so that i can enhance & improve my knowledge & experience in these fields.
+- 🕵️ I’m looking to collaborate on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields.
   
 
 ## 🔧 Technologies & Tools
@@ -52,18 +52,15 @@
 </a>
   
   
-  
-<!-- 
-📊 **This week I spent my time on**
+## 📊This week I spent my time on 
  
 ```text
-Kotlin      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Other       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-YAML        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+SQL     6 hr        ████████████░░░░░░░░░    54.5 % 
+CSS     1 hr        ██░░░░░░░░░░░░░░░░░░░    9 %
+HTML    1 hr        ██░░░░░░░░░░░░░░░░░░░    9 %
+Python  1 hr        ██░░░░░░░░░░░░░░░░░░░    9 %
+Statistics  2 hr    ████░░░░░░░░░░░░░░░░░    18 %
 ```
--->
 
   
   
