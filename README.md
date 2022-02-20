@@ -63,15 +63,3 @@ Statistics  2 hr    ████░░░░░░░░░░░░░░░░
 ```
 
   
-  
-<!---
-LuciferLuther/LuciferLuther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Gif Code
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-Repo Card code
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuciferLuther&repo=LuciferLuther&theme=moltack)](https://github.com/LuciferLuther/LuciferLuther)
-
-<img src= "https://img.shields.io/badge/LuciferS-SoftwareEngineer-lightgrey">
-<img src="http://i.imgur.com/OUkLi.gif" width="30px">
---->
