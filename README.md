@@ -24,7 +24,7 @@
  
  ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Data Scientist & ML Engineer
 - 👀 I’m interested in Data Science ,Machine Learning, AI & Cloud Foundation 
-- 🕵️ I’m looking to collaborate on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields.
+- 🕵️ I’m looking to work on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields.
   
 
 ## 🔧 Technologies & Tools
