@@ -22,9 +22,8 @@
   
 <img width="300" height="330" align="right" alt="GIF" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g" />
  
- ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Software Engineer
+ ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Data Scientist & ML Engineer
 - 👀 I’m interested in Data Science ,Machine Learning, AI & Cloud Foundation 
-- 🌱 I’m currently learning Data Analysis, Machine Learning & Cloud Computing.
 - 🕵️ I’m looking to collaborate on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields.
   
 
@@ -56,7 +55,7 @@
  
 ```text
 SQL     2 hr        ████░░░░░░░░░░░░░░░░░   
-tableau 2 hr        ████░░░░░░░░░░░░░░░░░      
+Tableau 2 hr        ████░░░░░░░░░░░░░░░░░      
 Python  4 hr        ████████████░░░░░░░░░    
 Statistics  5 hr    ███████████████░░░░░░    
 ```
