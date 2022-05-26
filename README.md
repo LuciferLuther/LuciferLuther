@@ -17,16 +17,17 @@
   https://images.squarespace-cdn.com/content/v1/5b3651f1da02bc4faec77390/1547820792598-PVSP6SVSNSPCZKWBNI4Q/truth+and+wisdom.jpg
   https://cdnb.artstation.com/p/assets/images/images/009/509/569/large/sahil-mathur-final.jpg?1519390374&dl=1
   --->
-  
+
+
 
   
-<img width="300" height="330" align="right" alt="GIF" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g" />
- 
- ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Data Scientist & ML Engineer
+### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Data Scientist & ML Engineer
 - 👀 I’m interested in Data Science ,Machine Learning, AI & Cloud Foundation 
-- 🕵️ I’m looking to work on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields.
+- 🕵️ I’m looking to work on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields. 
   
+<p><img style="float:right" width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/></p>
 
+  
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
@@ -37,8 +38,6 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
-
- 
 
   
 ## &#x1f4c8; GitHub Stats
