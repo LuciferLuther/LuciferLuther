@@ -7,25 +7,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuciferLuther.LuciferLuther" />
 
 <p align="center">
-  <img width="800" height="350" src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
-
-  ----
+<img align = "center" width="800" height="350" src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
   
+  ----
+ <!---   
+<p align="right"> 
  <!--- 
   Some images
   https://s35422.pcdn.co/wp-content/uploads/2017/10/4-Ways-to-Get-Wisdom.jpg
   https://images.squarespace-cdn.com/content/v1/5b3651f1da02bc4faec77390/1547820792598-PVSP6SVSNSPCZKWBNI4Q/truth+and+wisdom.jpg
   https://cdnb.artstation.com/p/assets/images/images/009/509/569/large/sahil-mathur-final.jpg?1519390374&dl=1
+
+<img width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/>
   --->
-
-
-
   
 ### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Data Scientist & ML Engineer
 - 👀 I’m interested in Data Science ,Machine Learning, AI & Cloud Foundation 
 - 🕵️ I’m looking to work on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields. 
   
-<p><img style="float:right" width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/></p>
+
 
   
 ## 🔧 Technologies & Tools
