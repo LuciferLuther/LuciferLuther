@@ -9,7 +9,9 @@
 <p align="center">
 <img align = "center" width="800" height="350" src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
   
-  ----
+<p align="right">
+<img align="right" img width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/>
+
  <!---   
 <p align="right"> 
  <!--- 
@@ -21,7 +23,7 @@
 <img width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/>
   --->
   
-### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently working as Data Scientist & ML Engineer
+### My name is Nader Salama & I’m Bio-Mechatronics Engineer & Currently looking for a role as a Data Scientist.
 - 👀 I’m interested in Data Science ,Machine Learning, AI & Cloud Foundation 
 - 🕵️ I’m looking to work on new & intersting projects which are connected to a real world problems so that I can enhance & strengthen my knowledge & experience in these fields. 
   
