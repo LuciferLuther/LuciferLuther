@@ -24,10 +24,9 @@
   --->
   
 ### My name is Nader Salama, and I'm a Data Scientist & Machine Learning Engineer with a passion for solving real-world problems.
+👀 I'm interested in Data Science, Machine Learning, Artificial Intelligence (AI), and Cloud Foundation.
 
-👀 I'm interested in Data Science, Machine Learning, Artificial Intelligence (AI) & Cloud Foundation. 
-
-🕵️ I believe that the best way to learn is by doing - so I'm always looking for new and interesting projects that are connected to real-world problems so that I can enhance and strengthen my knowledge and experience in these fields.
+🕵️ I believe that the best way to learn is by doing, so I'm always looking for new and interesting projects that are connected to real-world problems to enhance and strengthen my knowledge and experience in these fields.
   
 
 
