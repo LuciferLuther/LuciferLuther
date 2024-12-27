@@ -23,12 +23,11 @@
 <img width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/>
   --->
   
-### My name is Nader Salama, and I'm a Data Scientist & Machine Learning Engineer with a passion for solving real-world problems.
-👀 I'm interested in Data Science, Machine Learning, Artificial Intelligence (AI), and Cloud Foundation.
+Hi, I’m Nader Salama, a Data Scientist and AI Engineer driven by a passion for solving real-world challenges through innovative technology. 🚀
 
-🕵️ I believe that the best way to learn is by doing, so I'm always looking for new and interesting projects that are connected to real-world problems to enhance and strengthen my knowledge and experience in these fields.
-  
+My expertise lies in Data Science, Machine Learning, AI, and Cloud Foundations, with a strong focus on building practical solutions that make an impact. I believe the best learning comes from hands-on experience, so I’m always eager to take on new and exciting projects that address real-world problems. These opportunities not only help refine my skills but also allow me to push the boundaries of what’s possible in these fields. 🌟
 
+Let’s connect and explore how we can collaborate to create meaningful solutions! 👨‍💻
 
 <br>
 <br>
