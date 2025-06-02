@@ -3,12 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-NaderSalama-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nader-salama-lucifers/)](https://www.linkedin.com/in/nader-salama-lucifers/)
 [![Gmail Badge](https://img.shields.io/badge/-NaderSalama-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nadersalama666@gmail.com)](mailto:nadersalama666@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-NaderSalama-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nader.salama.77)](https://www.facebook.com/nader.salama.77)
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuciferLuther.LuciferLuther" />
  <!---   
 [![Facebook Badge](https://img.shields.io/badge/-Portfolio-%231877F2.svg?&style=flat-square&logo=React&logoColor=white&link=https://developer-folio-iota.vercel.app/)](https://developer-folio-iota.vercel.app/) 
 --->
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuciferLuther.LuciferLuther" />
 
 <p align="center">
 <img align = "center" width="800" height="350" src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
