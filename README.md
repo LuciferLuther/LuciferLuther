@@ -25,11 +25,11 @@
 <img width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/>
   --->
   
-Hi, I’m Nader Salama, a Data Scientist and AI Engineer driven by a passion for solving real-world challenges through innovative technology. 🚀
+Hi, I’m Nader Salama — a Data Scientist and AI Engineer with a sharp focus on turning real-world problems into smart, practical solutions. I work at the intersection of machine learning, cloud systems, and AI engineering, where impact matters more than buzzwords.
 
-My expertise lies in Data Science, Machine Learning, AI, and Cloud Foundations, with a strong focus on building practical solutions that make an impact. I believe the best learning comes from hands-on experience, so I’m always eager to take on new and exciting projects that address real-world problems. These opportunities not only help refine my skills but also allow me to push the boundaries of what’s possible in these fields. 🌟
+I learn best by building, not just theorizing. Whether it’s optimizing workflows, designing intelligent agents, or launching data-driven tools, I’m drawn to projects that challenge the norm and deliver tangible results.
 
-Let’s connect and explore how we can collaborate to create meaningful solutions! 👨‍💻
+If you're working on something ambitious — or simply want to explore how tech can solve real human problems — let’s talk. Always up for bold ideas and meaningful collaboration.
 
 <br>
 <br>
