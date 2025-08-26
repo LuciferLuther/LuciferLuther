@@ -10,9 +10,6 @@
 
 <p align="center">
 <img align = "center" width="800" height="350" src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
-  
-<p align="right">
-<img align="right" img width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/>
 
  <!---   
 <p align="right"> 
