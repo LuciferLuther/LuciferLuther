@@ -21,11 +21,9 @@
   https://s35422.pcdn.co/wp-content/uploads/2017/10/4-Ways-to-Get-Wisdom.jpg
   https://images.squarespace-cdn.com/content/v1/5b3651f1da02bc4faec77390/1547820792598-PVSP6SVSNSPCZKWBNI4Q/truth+and+wisdom.jpg
   https://cdnb.artstation.com/p/assets/images/images/009/509/569/large/sahil-mathur-final.jpg?1519390374&dl=1
-
-<img width="300" height="330" alt="" src="https://media0.giphy.com/media/3dhmyq6EKw2x7eFt4X/giphy.gif?cid=ecf05e473oq0l71x21644p7ctqjtwffuu63f40qlva08o3oh&rid=giphy.gif&ct=g"/>
   --->
   
-Hi, I’m Nader Salama — a Data Scientist and AI Engineer with a sharp focus on turning real-world problems into smart, practical solutions. I work at the intersection of machine learning, cloud systems, and AI engineering, where impact matters more than buzzwords.
+Hi, I’m Nader Salama — AI Engineer with a sharp focus on turning real-world problems into smart, practical solutions. I work at the intersection of machine learning, cloud systems, and AI engineering, where impact matters more than buzzwords.
 
 I learn best by building, not just theorizing. Whether it’s optimizing workflows, designing intelligent agents, or launching data-driven tools, I’m drawn to projects that challenge the norm and deliver tangible results.
 
