@@ -27,9 +27,6 @@ I learn best by building, not just theorizing. Whether it’s optimizing workflo
 If you're working on something ambitious — or simply want to explore how tech can solve real human problems — let’s talk. Always up for bold ideas and meaningful collaboration.
 
 <br>
-<br>
-<br>
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
