@@ -1,4 +1,4 @@
-# Hello There <img src="https://raw.githubusercontent.com/LuciferLuther/LuciferLuther/master/wave.gif" height = "30px" width="30px">, Welcome To My Github
+# Hello There <img src="https://raw.githubusercontent.com/LuciferLuther/LuciferLuther/master/wave.gif" height = "30px" width="30px"> Welcome To My Github
 
 [![Linkedin Badge](https://img.shields.io/badge/-NaderSalama-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nader-salama-lucifers/)](https://www.linkedin.com/in/nader-salama-lucifers/)
 [![Gmail Badge](https://img.shields.io/badge/-NaderSalama-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nadersalama666@gmail.com)](mailto:nadersalama666@gmail.com)
